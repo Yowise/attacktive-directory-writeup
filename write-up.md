@@ -1,4 +1,4 @@
-#### Welcome to a new challenge from TryHackMe. Today I decided to learn how to attack Active Directory and I consider that this challenge was a great exercise. I practiced on tools already known as well as on tools that I did not know about before.
+#### Welcome to Attacktive Directory challenge from TryHackMe. Today I decided to learn how to attack Active Directory and I consider that this challenge was a great exercise. I practiced on tools already known as well as on tools that I did not know about before.
 
 🔗 Link to the challenge: https://tryhackme.com/r/room/attacktivedirectory
 
